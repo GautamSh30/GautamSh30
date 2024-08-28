@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamsh&label=Profile%20views&color=0e75b6&style=flat" alt="gautamsh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamsh" alt="gautamsh" /></a> </p>
-
 - 💬 Ask me about **Competitive Programming and DSA**
 
 - 📫 How to reach me **gautam2586272@gmail.com**
